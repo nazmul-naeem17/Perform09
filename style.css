@@ -1,0 +1,31 @@
+*{
+    background-color: lightskyblue;
+}
+h1{
+    background-color: royalblue;
+    border-style: solid dotted;
+    border-width: 5px 10px 15px 20px;
+    border-color: red darkgreen darkblue;
+}
+.class1{
+    background: lightgreen url("1.jpg") no-repeat center top;
+/*Shortent css*/    
+}
+.class1 p{
+    color: darkblue;
+}
+p{
+    color: red;
+}
+.class1 h1{
+    color: #00fff5;
+}
+.class1 #pfirst{
+    background-color: yellow;
+}
+.class2{
+    height: 300px;
+    width: 500px;
+    border: dashed 5px green;
+    
+}
